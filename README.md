@@ -19,8 +19,8 @@ Junto con el código, escribí un breve párrafo explicando qué aplicación con
 
 <img width="610" height="430" alt="Captura de pantalla 2026-09-24 121548" src="https://github.com/user-attachments/assets/51c4b656-cde7-4134-9b1c-a7f7f86ea350" />
 
-<img width="736" height="495" alt="image" src="https://github.com/user-attachments/assets/7b936d70-d626-4169-80e2-7b0498553634" />
+<img width="600" height="450" alt="image" src="https://github.com/user-attachments/assets/7b936d70-d626-4169-80e2-7b0498553634" />
 
-<img width="733" height="493" alt="image" src="https://github.com/user-attachments/assets/4514367c-2be8-47e7-8cf9-82aa129eaac4" />
+<img width="600" height="450" alt="image" src="https://github.com/user-attachments/assets/4514367c-2be8-47e7-8cf9-82aa129eaac4" />
 
 
